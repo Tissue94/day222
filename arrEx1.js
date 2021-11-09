@@ -1,6 +1,6 @@
 
 
-const arr = [`타노스`, `아이언맨`, `블랙위도우`]
+const arr = [`닥터스트레인지`, `아이언맨`, `블랙위도우`]
 
 console.log(arr.length)
 
